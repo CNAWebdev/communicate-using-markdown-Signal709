@@ -4,4 +4,6 @@
 
 ###### This is an `<h6>` header, this is a header for ants
 
-This was a run at making different headers and attempting sizing
+The above was a run at making different headers and attempting sizing.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
