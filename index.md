@@ -7,3 +7,11 @@
 The above was a run at making different headers and attempting sizing.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+the above is an example of adding an image.
+
+``` javascript
+var myGreeting = "Hello, world!";
+```
+
+the above is an example of communicating.
